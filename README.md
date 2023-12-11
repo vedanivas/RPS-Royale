@@ -3,8 +3,6 @@ To use the script do the following
 
 - run `test_case_generator.sh` , this will add randomized test cases to the `test_cases` folder
 
-- store your programs inside `student programs` in the following format
-
 ```
     RPS-Royale
         ----program.cpp
