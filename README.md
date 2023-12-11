@@ -6,9 +6,8 @@ To use the script do the following
 - store your programs inside `student programs` in the following format
 
 ```
-    student_programs
-        ----Roll_Number
-            ----program.cpp
+    RPS-Royale
+        ----program.cpp
 
 ```
 
